@@ -1,3 +1,4 @@
+alert ("aji");
 const video = document.getElementById('video')
 
 Promise.all([
